@@ -1,0 +1,93 @@
+Wed 24 Jul 2024 12:57:54 PM CDT
+Jobid: 9018609.amn-0001
+Running on nodes x1922c0s6b0n0.hostmgmt2001.cm.americas.sgi.com
+EXT_ENV="--env FI_CXI_DEFAULT_CQ_SIZE=1048576"
+ROOT_DIR=/lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/copper
+NNODES=1
+PYTHON_RANKS_PER_NODE=12
+PYTHON_TOTAL_PROCESSES=12
+running python tests
+x1922c0s6b0n0-7399235: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/copper/scripts/test/target_test.py - start run
+x1922c0s6b0n0-7399235: packages_dir: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1922c0s6b0n0-7399235: appending new_python_path: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1922c0s6b0n0-7399235: using PYTHONPATH: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages:/soft/compilers/oneapi/2024.04.15.001/oneapi/advisor/latest/pythonapi
+x1922c0s6b0n0-7399235: start_time: 1721843875.906147
+x1922c0s6b0n0-7399235: end_time: 1721843878.9998515
+x1922c0s6b0n0-7399235: total time - 3.0937044620513916
+x1922c0s6b0n0-6628604: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/copper/scripts/test/target_test.py - start run
+x1922c0s6b0n0-6628604: packages_dir: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1922c0s6b0n0-6628604: appending new_python_path: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1922c0s6b0n0-6628604: using PYTHONPATH: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages:/soft/compilers/oneapi/2024.04.15.001/oneapi/advisor/latest/pythonapi
+x1922c0s6b0n0-6628604: start_time: 1721843875.9178073
+x1922c0s6b0n0-6628604: end_time: 1721843879.0180697
+x1922c0s6b0n0-6628604: total time - 3.100262403488159
+x1922c0s6b0n0-926942: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/copper/scripts/test/target_test.py - start run
+x1922c0s6b0n0-926942: packages_dir: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1922c0s6b0n0-926942: appending new_python_path: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1922c0s6b0n0-926942: using PYTHONPATH: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages:/soft/compilers/oneapi/2024.04.15.001/oneapi/advisor/latest/pythonapi
+x1922c0s6b0n0-926942: start_time: 1721843875.9088485
+x1922c0s6b0n0-926942: end_time: 1721843879.0247073
+x1922c0s6b0n0-926942: total time - 3.115858793258667
+x1922c0s6b0n0-1574654: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/copper/scripts/test/target_test.py - start run
+x1922c0s6b0n0-1574654: packages_dir: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1922c0s6b0n0-1574654: appending new_python_path: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1922c0s6b0n0-1574654: using PYTHONPATH: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages:/soft/compilers/oneapi/2024.04.15.001/oneapi/advisor/latest/pythonapi
+x1922c0s6b0n0-1574654: start_time: 1721843875.905605
+x1922c0s6b0n0-1574654: end_time: 1721843879.0334477
+x1922c0s6b0n0-1574654: total time - 3.127842664718628
+x1922c0s6b0n0-53454: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/copper/scripts/test/target_test.py - start run
+x1922c0s6b0n0-53454: packages_dir: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1922c0s6b0n0-53454: appending new_python_path: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1922c0s6b0n0-53454: using PYTHONPATH: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages:/soft/compilers/oneapi/2024.04.15.001/oneapi/advisor/latest/pythonapi
+x1922c0s6b0n0-53454: start_time: 1721843875.9104292
+x1922c0s6b0n0-53454: end_time: 1721843879.034403
+x1922c0s6b0n0-53454: total time - 3.123973846435547
+x1922c0s6b0n0-9184178: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/copper/scripts/test/target_test.py - start run
+x1922c0s6b0n0-9184178: packages_dir: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1922c0s6b0n0-9184178: appending new_python_path: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1922c0s6b0n0-9184178: using PYTHONPATH: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages:/soft/compilers/oneapi/2024.04.15.001/oneapi/advisor/latest/pythonapi
+x1922c0s6b0n0-9184178: start_time: 1721843875.908414
+x1922c0s6b0n0-9184178: end_time: 1721843879.0344706
+x1922c0s6b0n0-9184178: total time - 3.126056671142578
+x1922c0s6b0n0-3850765: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/copper/scripts/test/target_test.py - start run
+x1922c0s6b0n0-3850765: packages_dir: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1922c0s6b0n0-3850765: appending new_python_path: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1922c0s6b0n0-3850765: using PYTHONPATH: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages:/soft/compilers/oneapi/2024.04.15.001/oneapi/advisor/latest/pythonapi
+x1922c0s6b0n0-3850765: start_time: 1721843875.909434
+x1922c0s6b0n0-3850765: end_time: 1721843879.0357494
+x1922c0s6b0n0-3850765: total time - 3.1263153553009033
+x1922c0s6b0n0-3928573: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/copper/scripts/test/target_test.py - start run
+x1922c0s6b0n0-3928573: packages_dir: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1922c0s6b0n0-3928573: appending new_python_path: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1922c0s6b0n0-3928573: using PYTHONPATH: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages:/soft/compilers/oneapi/2024.04.15.001/oneapi/advisor/latest/pythonapi
+x1922c0s6b0n0-3928573: start_time: 1721843875.9103575
+x1922c0s6b0n0-3928573: end_time: 1721843879.0357473
+x1922c0s6b0n0-3928573: total time - 3.125389814376831
+x1922c0s6b0n0-4033337: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/copper/scripts/test/target_test.py - start run
+x1922c0s6b0n0-4033337: packages_dir: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1922c0s6b0n0-4033337: appending new_python_path: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1922c0s6b0n0-4033337: using PYTHONPATH: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages:/soft/compilers/oneapi/2024.04.15.001/oneapi/advisor/latest/pythonapi
+x1922c0s6b0n0-4033337: start_time: 1721843875.9096127
+x1922c0s6b0n0-4033337: end_time: 1721843879.038261
+x1922c0s6b0n0-4033337: total time - 3.128648281097412
+x1922c0s6b0n0-6301055: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/copper/scripts/test/target_test.py - start run
+x1922c0s6b0n0-6301055: packages_dir: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1922c0s6b0n0-6301055: appending new_python_path: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1922c0s6b0n0-6301055: using PYTHONPATH: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages:/soft/compilers/oneapi/2024.04.15.001/oneapi/advisor/latest/pythonapi
+x1922c0s6b0n0-6301055: start_time: 1721843875.9076462
+x1922c0s6b0n0-6301055: end_time: 1721843879.0516994
+x1922c0s6b0n0-6301055: total time - 3.1440532207489014
+x1922c0s6b0n0-2270047: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/copper/scripts/test/target_test.py - start run
+x1922c0s6b0n0-2270047: packages_dir: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1922c0s6b0n0-2270047: appending new_python_path: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1922c0s6b0n0-2270047: using PYTHONPATH: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages:/soft/compilers/oneapi/2024.04.15.001/oneapi/advisor/latest/pythonapi
+x1922c0s6b0n0-2270047: start_time: 1721843875.9080098
+x1922c0s6b0n0-2270047: end_time: 1721843879.053906
+x1922c0s6b0n0-2270047: total time - 3.1458961963653564
+x1922c0s6b0n0-3138800: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/copper/scripts/test/target_test.py - start run
+x1922c0s6b0n0-3138800: packages_dir: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1922c0s6b0n0-3138800: appending new_python_path: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1922c0s6b0n0-3138800: using PYTHONPATH: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages:/soft/compilers/oneapi/2024.04.15.001/oneapi/advisor/latest/pythonapi
+x1922c0s6b0n0-3138800: start_time: 1721843875.9099898
+x1922c0s6b0n0-3138800: end_time: 1721843879.1018999
+x1922c0s6b0n0-3138800: total time - 3.1919100284576416

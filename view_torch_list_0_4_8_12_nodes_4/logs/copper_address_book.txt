@@ -1,0 +1,4 @@
+x1921c1s1b0n0 ofi+cxi://0x20134600
+x1921c1s6b0n0 ofi+cxi://0x20132400
+x1921c1s7b0n0 ofi+cxi://0x20130400
+x1921c1s4b0n0 ofi+cxi://0x20132000

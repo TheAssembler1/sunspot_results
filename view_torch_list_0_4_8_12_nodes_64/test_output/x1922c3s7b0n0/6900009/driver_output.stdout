@@ -1,0 +1,9 @@
+x1922c3s7b0n0-6900009: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/copper/scripts/test/view_test.py - start run
+x1922c3s7b0n0-6900009: packages_dir: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1922c3s7b0n0-6900009: view dir: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/view
+x1922c3s7b0n0-6900009: prepending view dir to packages dir
+x1922c3s7b0n0-6900009: appending new_python_path: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/view//lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1922c3s7b0n0-6900009: using PYTHONPATH: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/view//lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages:/soft/compilers/oneapi/2024.04.15.001/oneapi/advisor/latest/pythonapi
+x1922c3s7b0n0-6900009: start_time: 1721848753.167964
+x1922c3s7b0n0-6900009: end_time: 1721848770.4438915
+x1922c3s7b0n0-6900009: total time - 17.275927543640137

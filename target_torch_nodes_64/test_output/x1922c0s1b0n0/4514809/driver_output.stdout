@@ -1,0 +1,7 @@
+x1922c0s1b0n0-4514809: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/copper/scripts/test/target_test.py - start run
+x1922c0s1b0n0-4514809: packages_dir: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1922c0s1b0n0-4514809: appending new_python_path: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1922c0s1b0n0-4514809: using PYTHONPATH: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages:/soft/compilers/oneapi/2024.04.15.001/oneapi/advisor/latest/pythonapi
+x1922c0s1b0n0-4514809: start_time: 1721849922.513096
+x1922c0s1b0n0-4514809: end_time: 1721849931.2600489
+x1922c0s1b0n0-4514809: total time - 8.746952772140503

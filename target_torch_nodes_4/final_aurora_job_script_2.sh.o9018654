@@ -1,0 +1,345 @@
+Wed 24 Jul 2024 02:47:10 PM CDT
+Jobid: 9018654.amn-0001
+Running on nodes x1921c0s6b0n0.hostmgmt2000.cm.americas.sgi.com x1921c1s1b0n0.hostmgmt2000.cm.americas.sgi.com x1921c1s4b0n0.hostmgmt2000.cm.americas.sgi.com x1921c1s6b0n0.hostmgmt2000.cm.americas.sgi.com
+EXT_ENV="--env FI_CXI_DEFAULT_CQ_SIZE=1048576"
+ROOT_DIR=/lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/copper
+NNODES=4
+PYTHON_RANKS_PER_NODE=12
+PYTHON_TOTAL_PROCESSES=48
+running python tests
+x1921c1s6b0n0-5430473: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/copper/scripts/test/target_test.py - start run
+x1921c1s6b0n0-5430473: packages_dir: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c1s6b0n0-5430473: appending new_python_path: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c1s6b0n0-5430473: using PYTHONPATH: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages:/soft/compilers/oneapi/2024.04.15.001/oneapi/advisor/latest/pythonapi
+x1921c1s6b0n0-5430473: start_time: 1721850431.611072
+x1921c1s6b0n0-5430473: end_time: 1721850433.324926
+x1921c1s6b0n0-5430473: total time - 1.7138538360595703
+x1921c1s6b0n0-6612681: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/copper/scripts/test/target_test.py - start run
+x1921c1s6b0n0-6612681: packages_dir: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c1s6b0n0-6612681: appending new_python_path: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c1s6b0n0-6612681: using PYTHONPATH: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages:/soft/compilers/oneapi/2024.04.15.001/oneapi/advisor/latest/pythonapi
+x1921c1s6b0n0-6612681: start_time: 1721850431.6129584
+x1921c1s6b0n0-6612681: end_time: 1721850433.3564339
+x1921c1s6b0n0-6612681: total time - 1.7434754371643066
+x1921c1s6b0n0-7021200: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/copper/scripts/test/target_test.py - start run
+x1921c1s6b0n0-7021200: packages_dir: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c1s6b0n0-7021200: appending new_python_path: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c1s6b0n0-7021200: using PYTHONPATH: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages:/soft/compilers/oneapi/2024.04.15.001/oneapi/advisor/latest/pythonapi
+x1921c1s6b0n0-7021200: start_time: 1721850431.621876
+x1921c1s6b0n0-7021200: end_time: 1721850433.3924024
+x1921c1s6b0n0-7021200: total time - 1.77052640914917
+x1921c1s6b0n0-2337406: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/copper/scripts/test/target_test.py - start run
+x1921c1s6b0n0-2337406: packages_dir: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c1s6b0n0-2337406: appending new_python_path: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c1s6b0n0-2337406: using PYTHONPATH: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages:/soft/compilers/oneapi/2024.04.15.001/oneapi/advisor/latest/pythonapi
+x1921c1s6b0n0-2337406: start_time: 1721850431.609419
+x1921c1s6b0n0-2337406: end_time: 1721850433.419181
+x1921c1s6b0n0-2337406: total time - 1.8097620010375977
+x1921c1s6b0n0-7465068: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/copper/scripts/test/target_test.py - start run
+x1921c1s6b0n0-7465068: packages_dir: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c1s6b0n0-7465068: appending new_python_path: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c1s6b0n0-7465068: using PYTHONPATH: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages:/soft/compilers/oneapi/2024.04.15.001/oneapi/advisor/latest/pythonapi
+x1921c1s6b0n0-7465068: start_time: 1721850431.6149778
+x1921c1s6b0n0-7465068: end_time: 1721850433.4303722
+x1921c1s6b0n0-7465068: total time - 1.815394401550293
+x1921c1s4b0n0-5919996: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/copper/scripts/test/target_test.py - start run
+x1921c1s4b0n0-5919996: packages_dir: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c1s4b0n0-5919996: appending new_python_path: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c1s4b0n0-5919996: using PYTHONPATH: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages:/soft/compilers/oneapi/2024.04.15.001/oneapi/advisor/latest/pythonapi
+x1921c1s4b0n0-5919996: start_time: 1721850431.5951407
+x1921c1s4b0n0-5919996: end_time: 1721850433.430961
+x1921c1s4b0n0-5919996: total time - 1.835820198059082
+x1921c1s6b0n0-3302017: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/copper/scripts/test/target_test.py - start run
+x1921c1s6b0n0-3302017: packages_dir: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c1s6b0n0-3302017: appending new_python_path: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c1s6b0n0-3302017: using PYTHONPATH: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages:/soft/compilers/oneapi/2024.04.15.001/oneapi/advisor/latest/pythonapi
+x1921c1s6b0n0-3302017: start_time: 1721850431.613554
+x1921c1s6b0n0-3302017: end_time: 1721850433.445566
+x1921c1s6b0n0-3302017: total time - 1.8320119380950928
+x1921c1s4b0n0-293675: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/copper/scripts/test/target_test.py - start run
+x1921c1s4b0n0-293675: packages_dir: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c1s4b0n0-293675: appending new_python_path: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c1s4b0n0-293675: using PYTHONPATH: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages:/soft/compilers/oneapi/2024.04.15.001/oneapi/advisor/latest/pythonapi
+x1921c1s4b0n0-293675: start_time: 1721850431.593865
+x1921c1s4b0n0-293675: end_time: 1721850433.4614513
+x1921c1s4b0n0-293675: total time - 1.867586374282837
+x1921c1s6b0n0-7059761: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/copper/scripts/test/target_test.py - start run
+x1921c1s6b0n0-7059761: packages_dir: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c1s6b0n0-7059761: appending new_python_path: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c1s6b0n0-7059761: using PYTHONPATH: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages:/soft/compilers/oneapi/2024.04.15.001/oneapi/advisor/latest/pythonapi
+x1921c1s6b0n0-7059761: start_time: 1721850431.6092339
+x1921c1s6b0n0-7059761: end_time: 1721850433.462697
+x1921c1s6b0n0-7059761: total time - 1.8534631729125977
+x1921c1s4b0n0-5376722: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/copper/scripts/test/target_test.py - start run
+x1921c1s4b0n0-5376722: packages_dir: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c1s4b0n0-5376722: appending new_python_path: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c1s4b0n0-5376722: using PYTHONPATH: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages:/soft/compilers/oneapi/2024.04.15.001/oneapi/advisor/latest/pythonapi
+x1921c1s4b0n0-5376722: start_time: 1721850431.5767877
+x1921c1s4b0n0-5376722: end_time: 1721850433.4677203
+x1921c1s4b0n0-5376722: total time - 1.890932559967041
+x1921c1s4b0n0-8690139: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/copper/scripts/test/target_test.py - start run
+x1921c1s4b0n0-8690139: packages_dir: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c1s4b0n0-8690139: appending new_python_path: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c1s4b0n0-8690139: using PYTHONPATH: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages:/soft/compilers/oneapi/2024.04.15.001/oneapi/advisor/latest/pythonapi
+x1921c1s4b0n0-8690139: start_time: 1721850431.5911129
+x1921c1s4b0n0-8690139: end_time: 1721850433.4680767
+x1921c1s4b0n0-8690139: total time - 1.8769638538360596
+x1921c1s4b0n0-5573999: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/copper/scripts/test/target_test.py - start run
+x1921c1s4b0n0-5573999: packages_dir: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c1s4b0n0-5573999: appending new_python_path: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c1s4b0n0-5573999: using PYTHONPATH: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages:/soft/compilers/oneapi/2024.04.15.001/oneapi/advisor/latest/pythonapi
+x1921c1s4b0n0-5573999: start_time: 1721850431.588235
+x1921c1s4b0n0-5573999: end_time: 1721850433.4695828
+x1921c1s4b0n0-5573999: total time - 1.881347894668579
+x1921c1s4b0n0-7635279: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/copper/scripts/test/target_test.py - start run
+x1921c1s4b0n0-7635279: packages_dir: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c1s4b0n0-7635279: appending new_python_path: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c1s4b0n0-7635279: using PYTHONPATH: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages:/soft/compilers/oneapi/2024.04.15.001/oneapi/advisor/latest/pythonapi
+x1921c1s4b0n0-7635279: start_time: 1721850431.5953035
+x1921c1s4b0n0-7635279: end_time: 1721850433.4734788
+x1921c1s4b0n0-7635279: total time - 1.8781752586364746
+x1921c1s6b0n0-7830319: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/copper/scripts/test/target_test.py - start run
+x1921c1s6b0n0-7830319: packages_dir: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c1s6b0n0-7830319: appending new_python_path: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c1s6b0n0-7830319: using PYTHONPATH: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages:/soft/compilers/oneapi/2024.04.15.001/oneapi/advisor/latest/pythonapi
+x1921c1s6b0n0-7830319: start_time: 1721850431.6099834
+x1921c1s6b0n0-7830319: end_time: 1721850433.4801297
+x1921c1s6b0n0-7830319: total time - 1.8701462745666504
+x1921c1s4b0n0-7896529: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/copper/scripts/test/target_test.py - start run
+x1921c1s4b0n0-7896529: packages_dir: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c1s4b0n0-7896529: appending new_python_path: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c1s4b0n0-7896529: using PYTHONPATH: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages:/soft/compilers/oneapi/2024.04.15.001/oneapi/advisor/latest/pythonapi
+x1921c1s4b0n0-7896529: start_time: 1721850431.59456
+x1921c1s4b0n0-7896529: end_time: 1721850433.4834237
+x1921c1s4b0n0-7896529: total time - 1.8888638019561768
+x1921c1s6b0n0-9886294: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/copper/scripts/test/target_test.py - start run
+x1921c1s6b0n0-9886294: packages_dir: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c1s6b0n0-9886294: appending new_python_path: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c1s6b0n0-9886294: using PYTHONPATH: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages:/soft/compilers/oneapi/2024.04.15.001/oneapi/advisor/latest/pythonapi
+x1921c1s6b0n0-9886294: start_time: 1721850431.6108358
+x1921c1s6b0n0-9886294: end_time: 1721850433.4939213
+x1921c1s6b0n0-9886294: total time - 1.8830854892730713
+x1921c1s6b0n0-4485263: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/copper/scripts/test/target_test.py - start run
+x1921c1s6b0n0-4485263: packages_dir: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c1s6b0n0-4485263: appending new_python_path: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c1s6b0n0-4485263: using PYTHONPATH: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages:/soft/compilers/oneapi/2024.04.15.001/oneapi/advisor/latest/pythonapi
+x1921c1s6b0n0-4485263: start_time: 1721850431.615716
+x1921c1s6b0n0-4485263: end_time: 1721850433.4942071
+x1921c1s6b0n0-4485263: total time - 1.8784911632537842
+x1921c1s4b0n0-8291945: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/copper/scripts/test/target_test.py - start run
+x1921c1s4b0n0-8291945: packages_dir: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c1s4b0n0-8291945: appending new_python_path: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c1s4b0n0-8291945: using PYTHONPATH: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages:/soft/compilers/oneapi/2024.04.15.001/oneapi/advisor/latest/pythonapi
+x1921c1s4b0n0-8291945: start_time: 1721850431.5944715
+x1921c1s4b0n0-8291945: end_time: 1721850433.4974844
+x1921c1s4b0n0-8291945: total time - 1.903012990951538
+x1921c1s4b0n0-9486032: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/copper/scripts/test/target_test.py - start run
+x1921c1s4b0n0-9486032: packages_dir: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c1s4b0n0-9486032: appending new_python_path: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c1s4b0n0-9486032: using PYTHONPATH: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages:/soft/compilers/oneapi/2024.04.15.001/oneapi/advisor/latest/pythonapi
+x1921c1s4b0n0-9486032: start_time: 1721850431.5876777
+x1921c1s4b0n0-9486032: end_time: 1721850433.4981115
+x1921c1s4b0n0-9486032: total time - 1.9104337692260742
+x1921c1s6b0n0-8221152: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/copper/scripts/test/target_test.py - start run
+x1921c1s6b0n0-8221152: packages_dir: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c1s6b0n0-8221152: appending new_python_path: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c1s6b0n0-8221152: using PYTHONPATH: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages:/soft/compilers/oneapi/2024.04.15.001/oneapi/advisor/latest/pythonapi
+x1921c1s6b0n0-8221152: start_time: 1721850431.6108568
+x1921c1s6b0n0-8221152: end_time: 1721850433.5017033
+x1921c1s6b0n0-8221152: total time - 1.8908464908599854
+x1921c1s4b0n0-2880456: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/copper/scripts/test/target_test.py - start run
+x1921c1s4b0n0-2880456: packages_dir: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c1s4b0n0-2880456: appending new_python_path: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c1s4b0n0-2880456: using PYTHONPATH: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages:/soft/compilers/oneapi/2024.04.15.001/oneapi/advisor/latest/pythonapi
+x1921c1s4b0n0-2880456: start_time: 1721850431.5949876
+x1921c1s4b0n0-2880456: end_time: 1721850433.5022552
+x1921c1s4b0n0-2880456: total time - 1.9072675704956055
+x1921c1s4b0n0-2468057: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/copper/scripts/test/target_test.py - start run
+x1921c1s4b0n0-2468057: packages_dir: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c1s4b0n0-2468057: appending new_python_path: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c1s4b0n0-2468057: using PYTHONPATH: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages:/soft/compilers/oneapi/2024.04.15.001/oneapi/advisor/latest/pythonapi
+x1921c1s4b0n0-2468057: start_time: 1721850431.5844357
+x1921c1s4b0n0-2468057: end_time: 1721850433.50397
+x1921c1s4b0n0-2468057: total time - 1.9195342063903809
+x1921c1s6b0n0-873471: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/copper/scripts/test/target_test.py - start run
+x1921c1s6b0n0-873471: packages_dir: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c1s6b0n0-873471: appending new_python_path: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c1s6b0n0-873471: using PYTHONPATH: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages:/soft/compilers/oneapi/2024.04.15.001/oneapi/advisor/latest/pythonapi
+x1921c1s6b0n0-873471: start_time: 1721850431.6140966
+x1921c1s6b0n0-873471: end_time: 1721850433.5178747
+x1921c1s6b0n0-873471: total time - 1.903778076171875
+x1921c1s4b0n0-2561803: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/copper/scripts/test/target_test.py - start run
+x1921c1s4b0n0-2561803: packages_dir: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c1s4b0n0-2561803: appending new_python_path: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c1s4b0n0-2561803: using PYTHONPATH: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages:/soft/compilers/oneapi/2024.04.15.001/oneapi/advisor/latest/pythonapi
+x1921c1s4b0n0-2561803: start_time: 1721850431.5792875
+x1921c1s4b0n0-2561803: end_time: 1721850433.5226352
+x1921c1s4b0n0-2561803: total time - 1.943347692489624
+x1921c1s1b0n0-9487088: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/copper/scripts/test/target_test.py - start run
+x1921c1s1b0n0-9487088: packages_dir: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c1s1b0n0-9487088: appending new_python_path: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c1s1b0n0-9487088: using PYTHONPATH: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages:/soft/compilers/oneapi/2024.04.15.001/oneapi/advisor/latest/pythonapi
+x1921c1s1b0n0-9487088: start_time: 1721850431.6335788
+x1921c1s1b0n0-9487088: end_time: 1721850433.6932116
+x1921c1s1b0n0-9487088: total time - 2.0596327781677246
+x1921c1s1b0n0-3898973: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/copper/scripts/test/target_test.py - start run
+x1921c1s1b0n0-3898973: packages_dir: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c1s1b0n0-3898973: appending new_python_path: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c1s1b0n0-3898973: using PYTHONPATH: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages:/soft/compilers/oneapi/2024.04.15.001/oneapi/advisor/latest/pythonapi
+x1921c1s1b0n0-3898973: start_time: 1721850431.6327996
+x1921c1s1b0n0-3898973: end_time: 1721850433.6931417
+x1921c1s1b0n0-3898973: total time - 2.0603420734405518
+x1921c1s1b0n0-5136547: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/copper/scripts/test/target_test.py - start run
+x1921c1s1b0n0-5136547: packages_dir: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c1s1b0n0-5136547: appending new_python_path: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c1s1b0n0-5136547: using PYTHONPATH: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages:/soft/compilers/oneapi/2024.04.15.001/oneapi/advisor/latest/pythonapi
+x1921c1s1b0n0-5136547: start_time: 1721850431.640754
+x1921c1s1b0n0-5136547: end_time: 1721850433.695733
+x1921c1s1b0n0-5136547: total time - 2.054979085922241
+x1921c1s1b0n0-4417845: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/copper/scripts/test/target_test.py - start run
+x1921c1s1b0n0-4417845: packages_dir: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c1s1b0n0-4417845: appending new_python_path: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c1s1b0n0-4417845: using PYTHONPATH: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages:/soft/compilers/oneapi/2024.04.15.001/oneapi/advisor/latest/pythonapi
+x1921c1s1b0n0-4417845: start_time: 1721850431.624438
+x1921c1s1b0n0-4417845: end_time: 1721850433.698552
+x1921c1s1b0n0-4417845: total time - 2.0741138458251953
+x1921c1s1b0n0-2209759: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/copper/scripts/test/target_test.py - start run
+x1921c1s1b0n0-2209759: packages_dir: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c1s1b0n0-2209759: appending new_python_path: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c1s1b0n0-2209759: using PYTHONPATH: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages:/soft/compilers/oneapi/2024.04.15.001/oneapi/advisor/latest/pythonapi
+x1921c1s1b0n0-2209759: start_time: 1721850431.656815
+x1921c1s1b0n0-2209759: end_time: 1721850433.699656
+x1921c1s1b0n0-2209759: total time - 2.0428409576416016
+x1921c1s1b0n0-617306: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/copper/scripts/test/target_test.py - start run
+x1921c1s1b0n0-617306: packages_dir: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c1s1b0n0-617306: appending new_python_path: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c1s1b0n0-617306: using PYTHONPATH: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages:/soft/compilers/oneapi/2024.04.15.001/oneapi/advisor/latest/pythonapi
+x1921c1s1b0n0-617306: start_time: 1721850431.6450539
+x1921c1s1b0n0-617306: end_time: 1721850433.7005975
+x1921c1s1b0n0-617306: total time - 2.0555436611175537
+x1921c1s1b0n0-6489896: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/copper/scripts/test/target_test.py - start run
+x1921c1s1b0n0-6489896: packages_dir: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c1s1b0n0-6489896: appending new_python_path: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c1s1b0n0-6489896: using PYTHONPATH: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages:/soft/compilers/oneapi/2024.04.15.001/oneapi/advisor/latest/pythonapi
+x1921c1s1b0n0-6489896: start_time: 1721850431.6303532
+x1921c1s1b0n0-6489896: end_time: 1721850433.7016833
+x1921c1s1b0n0-6489896: total time - 2.0713300704956055
+x1921c1s1b0n0-8533293: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/copper/scripts/test/target_test.py - start run
+x1921c1s1b0n0-8533293: packages_dir: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c1s1b0n0-8533293: appending new_python_path: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c1s1b0n0-8533293: using PYTHONPATH: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages:/soft/compilers/oneapi/2024.04.15.001/oneapi/advisor/latest/pythonapi
+x1921c1s1b0n0-8533293: start_time: 1721850431.6246452
+x1921c1s1b0n0-8533293: end_time: 1721850433.7246444
+x1921c1s1b0n0-8533293: total time - 2.099999189376831
+x1921c1s1b0n0-2308354: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/copper/scripts/test/target_test.py - start run
+x1921c1s1b0n0-2308354: packages_dir: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c1s1b0n0-2308354: appending new_python_path: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c1s1b0n0-2308354: using PYTHONPATH: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages:/soft/compilers/oneapi/2024.04.15.001/oneapi/advisor/latest/pythonapi
+x1921c1s1b0n0-2308354: start_time: 1721850431.6312523
+x1921c1s1b0n0-2308354: end_time: 1721850433.7241778
+x1921c1s1b0n0-2308354: total time - 2.092925548553467
+x1921c1s1b0n0-1114595: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/copper/scripts/test/target_test.py - start run
+x1921c1s1b0n0-1114595: packages_dir: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c1s1b0n0-1114595: appending new_python_path: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c1s1b0n0-1114595: using PYTHONPATH: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages:/soft/compilers/oneapi/2024.04.15.001/oneapi/advisor/latest/pythonapi
+x1921c1s1b0n0-1114595: start_time: 1721850431.6316032
+x1921c1s1b0n0-1114595: end_time: 1721850433.7244444
+x1921c1s1b0n0-1114595: total time - 2.092841148376465
+x1921c1s1b0n0-3917024: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/copper/scripts/test/target_test.py - start run
+x1921c1s1b0n0-3917024: packages_dir: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c1s1b0n0-3917024: appending new_python_path: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c1s1b0n0-3917024: using PYTHONPATH: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages:/soft/compilers/oneapi/2024.04.15.001/oneapi/advisor/latest/pythonapi
+x1921c1s1b0n0-3917024: start_time: 1721850431.6426222
+x1921c1s1b0n0-3917024: end_time: 1721850433.7279115
+x1921c1s1b0n0-3917024: total time - 2.085289239883423
+x1921c1s1b0n0-9910471: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/copper/scripts/test/target_test.py - start run
+x1921c1s1b0n0-9910471: packages_dir: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c1s1b0n0-9910471: appending new_python_path: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c1s1b0n0-9910471: using PYTHONPATH: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages:/soft/compilers/oneapi/2024.04.15.001/oneapi/advisor/latest/pythonapi
+x1921c1s1b0n0-9910471: start_time: 1721850431.6370869
+x1921c1s1b0n0-9910471: end_time: 1721850433.760813
+x1921c1s1b0n0-9910471: total time - 2.1237261295318604
+x1921c0s6b0n0-4655566: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/copper/scripts/test/target_test.py - start run
+x1921c0s6b0n0-4655566: packages_dir: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c0s6b0n0-4655566: appending new_python_path: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c0s6b0n0-4655566: using PYTHONPATH: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages:/soft/compilers/oneapi/2024.04.15.001/oneapi/advisor/latest/pythonapi
+x1921c0s6b0n0-4655566: start_time: 1721850431.999147
+x1921c0s6b0n0-4655566: end_time: 1721850434.9037933
+x1921c0s6b0n0-4655566: total time - 2.904646396636963
+x1921c0s6b0n0-644747: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/copper/scripts/test/target_test.py - start run
+x1921c0s6b0n0-644747: packages_dir: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c0s6b0n0-644747: appending new_python_path: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c0s6b0n0-644747: using PYTHONPATH: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages:/soft/compilers/oneapi/2024.04.15.001/oneapi/advisor/latest/pythonapi
+x1921c0s6b0n0-644747: start_time: 1721850431.9991708
+x1921c0s6b0n0-644747: end_time: 1721850434.9039476
+x1921c0s6b0n0-644747: total time - 2.9047768115997314
+x1921c0s6b0n0-1720192: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/copper/scripts/test/target_test.py - start run
+x1921c0s6b0n0-1720192: packages_dir: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c0s6b0n0-1720192: appending new_python_path: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c0s6b0n0-1720192: using PYTHONPATH: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages:/soft/compilers/oneapi/2024.04.15.001/oneapi/advisor/latest/pythonapi
+x1921c0s6b0n0-1720192: start_time: 1721850432.0003526
+x1921c0s6b0n0-1720192: end_time: 1721850434.9038658
+x1921c0s6b0n0-1720192: total time - 2.903513193130493
+x1921c0s6b0n0-2514520: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/copper/scripts/test/target_test.py - start run
+x1921c0s6b0n0-2514520: packages_dir: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c0s6b0n0-2514520: appending new_python_path: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c0s6b0n0-2514520: using PYTHONPATH: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages:/soft/compilers/oneapi/2024.04.15.001/oneapi/advisor/latest/pythonapi
+x1921c0s6b0n0-2514520: start_time: 1721850432.0031695
+x1921c0s6b0n0-2514520: end_time: 1721850434.903535
+x1921c0s6b0n0-2514520: total time - 2.9003653526306152
+x1921c0s6b0n0-184106: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/copper/scripts/test/target_test.py - start run
+x1921c0s6b0n0-184106: packages_dir: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c0s6b0n0-184106: appending new_python_path: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c0s6b0n0-184106: using PYTHONPATH: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages:/soft/compilers/oneapi/2024.04.15.001/oneapi/advisor/latest/pythonapi
+x1921c0s6b0n0-184106: start_time: 1721850432.0047643
+x1921c0s6b0n0-184106: end_time: 1721850434.9038963
+x1921c0s6b0n0-184106: total time - 2.899132013320923
+x1921c0s6b0n0-499388: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/copper/scripts/test/target_test.py - start run
+x1921c0s6b0n0-499388: packages_dir: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c0s6b0n0-499388: appending new_python_path: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c0s6b0n0-499388: using PYTHONPATH: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages:/soft/compilers/oneapi/2024.04.15.001/oneapi/advisor/latest/pythonapi
+x1921c0s6b0n0-499388: start_time: 1721850432.001223
+x1921c0s6b0n0-499388: end_time: 1721850434.9037097
+x1921c0s6b0n0-499388: total time - 2.902486562728882
+x1921c0s6b0n0-7165896: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/copper/scripts/test/target_test.py - start run
+x1921c0s6b0n0-7165896: packages_dir: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c0s6b0n0-7165896: appending new_python_path: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c0s6b0n0-7165896: using PYTHONPATH: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages:/soft/compilers/oneapi/2024.04.15.001/oneapi/advisor/latest/pythonapi
+x1921c0s6b0n0-7165896: start_time: 1721850432.001233
+x1921c0s6b0n0-7165896: end_time: 1721850434.9042428
+x1921c0s6b0n0-7165896: total time - 2.9030096530914307
+x1921c0s6b0n0-7654765: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/copper/scripts/test/target_test.py - start run
+x1921c0s6b0n0-7654765: packages_dir: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c0s6b0n0-7654765: appending new_python_path: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c0s6b0n0-7654765: using PYTHONPATH: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages:/soft/compilers/oneapi/2024.04.15.001/oneapi/advisor/latest/pythonapi
+x1921c0s6b0n0-7654765: start_time: 1721850431.9992042
+x1921c0s6b0n0-7654765: end_time: 1721850434.904396
+x1921c0s6b0n0-7654765: total time - 2.9051918983459473
+x1921c0s6b0n0-1793845: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/copper/scripts/test/target_test.py - start run
+x1921c0s6b0n0-1793845: packages_dir: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c0s6b0n0-1793845: appending new_python_path: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c0s6b0n0-1793845: using PYTHONPATH: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages:/soft/compilers/oneapi/2024.04.15.001/oneapi/advisor/latest/pythonapi
+x1921c0s6b0n0-1793845: start_time: 1721850432.0037212
+x1921c0s6b0n0-1793845: end_time: 1721850434.9039025
+x1921c0s6b0n0-1793845: total time - 2.900181293487549
+x1921c0s6b0n0-4646362: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/copper/scripts/test/target_test.py - start run
+x1921c0s6b0n0-4646362: packages_dir: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c0s6b0n0-4646362: appending new_python_path: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c0s6b0n0-4646362: using PYTHONPATH: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages:/soft/compilers/oneapi/2024.04.15.001/oneapi/advisor/latest/pythonapi
+x1921c0s6b0n0-4646362: start_time: 1721850432.0055401
+x1921c0s6b0n0-4646362: end_time: 1721850434.9194915
+x1921c0s6b0n0-4646362: total time - 2.9139513969421387
+x1921c0s6b0n0-2738248: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/copper/scripts/test/target_test.py - start run
+x1921c0s6b0n0-2738248: packages_dir: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c0s6b0n0-2738248: appending new_python_path: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c0s6b0n0-2738248: using PYTHONPATH: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages:/soft/compilers/oneapi/2024.04.15.001/oneapi/advisor/latest/pythonapi
+x1921c0s6b0n0-2738248: start_time: 1721850432.001226
+x1921c0s6b0n0-2738248: end_time: 1721850434.9196908
+x1921c0s6b0n0-2738248: total time - 2.9184648990631104
+x1921c0s6b0n0-8886427: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/copper/scripts/test/target_test.py - start run
+x1921c0s6b0n0-8886427: packages_dir: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c0s6b0n0-8886427: appending new_python_path: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages
+x1921c0s6b0n0-8886427: using PYTHONPATH: /lus/gila/projects/CSC250STDM10_CNDA/kaushik/guest/packages:/soft/compilers/oneapi/2024.04.15.001/oneapi/advisor/latest/pythonapi
+x1921c0s6b0n0-8886427: start_time: 1721850432.01106
+x1921c0s6b0n0-8886427: end_time: 1721850434.9684587
+x1921c0s6b0n0-8886427: total time - 2.9573986530303955
